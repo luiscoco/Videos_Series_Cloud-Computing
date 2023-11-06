@@ -75,13 +75,13 @@ https://github.com/luiscoco/AZ-104-Azure-IT-Administrator-Certificate/
 
 
 
-### 3.3.3. AZ-305 Azure Solutions Architect
+### 1.3.3. AZ-305 Azure Solutions Architect
 
 
 
-## 3.4. Google Cloud Services
+## 1.4. Google Cloud Services
 
-### 3.4.1. Google Cloud SDK for .NET
+### 1.4.1. Google Cloud SDK for .NET
 
 GoogleCloud_SDK_for_dotNET: https://github.com/luiscoco/GoogleCloud_SDK_for_dotNET
 
